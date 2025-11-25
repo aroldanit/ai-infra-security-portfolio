@@ -23,7 +23,7 @@ This portfolio showcases **hands-on projects** across:
 
 > Each project has its own repository. Click for code, architecture diagrams, and run instructions.
 
-### Q1 — Core Cloud & Security Foundations
+### Core Cloud & Security Foundations
 
 1. **Hardened Linux Web Server on AWS**  
    - **Skills:** Linux hardening, EC2, IAM roles, security groups, logging  
@@ -37,7 +37,7 @@ This portfolio showcases **hands-on projects** across:
    - **Skills:** IAM, VPC, firewall rules, cloud comparison  
    - 🔗 Project page: 
 
-### Q2 — IaC, Containers & Security Monitoring
+### IaC, Containers & Security Monitoring
 
 4. **Terraform-Managed AWS Infrastructure**  
    - **Skills:** Terraform, VPC, subnets, EC2, S3, remote state  
@@ -51,7 +51,7 @@ This portfolio showcases **hands-on projects** across:
    - **Skills:** CloudWatch, GuardDuty, Security Hub, alerts  
    - 🔗 Project page: 
 
-### Q3 — AI Infrastructure & Automation
+### AI Infrastructure & Automation
 
 7. **AWS Bedrock RAG Chatbot (Serverless)**  
    - **Skills:** Bedrock, Lambda, API Gateway, vector store  
@@ -65,7 +65,7 @@ This portfolio showcases **hands-on projects** across:
    - **Skills:** CloudWatch, Lambda, LLM summarization, Slack/Teams notification  
    - 🔗 Project page: 
 
-### Q4 — Specialization & Advanced Scenarios
+### Specialization & Advanced Scenarios
 
 10. **End-to-End Cloud Security Audit & Remediation**  
     - **Skills:** IAM least privilege, S3 hardening, VPC isolation  
